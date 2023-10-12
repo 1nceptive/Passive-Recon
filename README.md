@@ -12,14 +12,18 @@
 
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Websites & Tools used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>netcraft.com</b> 
+- <b>dnsdumpster.com</b>
+- <b>wafw00f</b>
+- <b>sublist3r</b>
+- <b>theHarvester</b>
+- <b>haveibeenpwned.com</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Kali Linux</b> 
 
 <h2>Program walk-through:</h2>
 
