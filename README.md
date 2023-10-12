@@ -28,8 +28,23 @@
 
 <h2>Cheatsheet Walkthrough</h2>
 
-<b> 
-1. ***BROWSER***
+<b>1. BROWSER</b>
+<b>netcraft.com</b>
+<b></b>
+<b></b>
+<b></b>
+<b></b>
+<b></b>
+<b></b>
+<b></b>
+<b></b>
+<b></b>
+<b></b>
+<b></b>
+<b></b>
+<b></b>
+
+
 netcraft.com
 
 2. ***BROWSER***
