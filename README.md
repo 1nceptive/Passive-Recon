@@ -26,7 +26,43 @@
 
 - <b>Kali Linux</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Cheatsheet Walkthrough</h2>
+
+<b> 
+1. ***BROWSER***
+netcraft.com
+
+2. ***BROWSER***
+dnsdumpster.com
+
+IP Address:
+DNS Info:
+Domain names:
+Domain ownership:
+Email addresses:
+Social media:
+web technologies:
+Subdomains:
+
+3. ***TERMINAL***
+Find web application firewall 
+wafw00f hackersploit.com
+wafw00f hackersploit.com -a = shows all possible WAFs
+if saying WAF but not identifying then need to run port scan on IP address of webserver
+WAF:
+
+4. ***TERMINAL***
+Find Subdomains of domain with sublist3r
+sublist3r -d hackersploit.com
+sublister -d hackersplpoit.com -e yahoo,google for specific engine.
+
+5. ***TERMINAL***
+Find emails 
+theHarvester -d hackersploit.org -b google,linkedin
+
+6. ***BROWSER***
+Find leaked passwords
+haveibeenpwned.com</b>
 
 <p align="center">
 Launch the utility: <br/>
