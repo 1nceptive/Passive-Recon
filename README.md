@@ -26,7 +26,7 @@
 
 <h2>Cheatsheet Walkthrough</h2>
 
-<b>1. [netcraft.com](netcraft.com) - BROWSER</b>
+<h3>1. [netcraft.com](netcraft.com) - BROWSER</h3>
 
 <b>2. [dnsdumpster.com](dnsdumpster.com) - BROWSER</b>
 
