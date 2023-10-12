@@ -39,11 +39,23 @@
 - <b>***Find Subdomains of domain with sublist3r***</b>
 - <b>`subblist3r -d` zonetransfer.me</b>
 
+<b>5. theHarvester - TERMINAL</b>
+- <b>***Find domain email addresses***</b>
+- <b>`theHarvester -d` zonetransfer.me</b>
+
+<b>6. [haveibeenpwned.com](haveibeenpwned.com) - BROWSER</b>
+- <b>***Find leaked passwords for the identified emails***</b>
+
 <b></b>
 <b></b>
 <b></b>
 <b></b>
 <b></b>
+<b></b>
+<b></b>
+<b></b>
+<b></b>
+
 
 
 
