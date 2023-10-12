@@ -26,45 +26,14 @@
 
 <h2>Cheatsheet Walkthrough</h2>
 
-<b>1. [netcraft.com](netcraft.com) - BROWSER</b>
-- <b>Shows alot of information</b>
 
-<b>2. [dnsdumpster.com](dnsdumpster.com) - BROWSER</b>
-- <b>Shows alot of information</b>
-
-<b>3. wafw00f - TERMINAL</b>
-
-- <b>***Use wafw00f to find web application firewall***</b>
-- <b>`wafw00f` zonetransfer.me</b>
-
-<b>4. Sublist3r - TERMINAL</b>
-- <b>***Find Subdomains of domain with sublist3r***</b>
-- <b>`subblist3r -d` zonetransfer.me</b>
-
-<b>5. theHarvester - TERMINAL</b>
-- <b>***Find domain email addresses***</b>
-- <b>`theHarvester -d` zonetransfer.me</b>
-
-<b>6. [haveibeenpwned.com](haveibeenpwned.com) - BROWSER</b>
-- <b>***Find leaked passwords for the identified emails***</b>
-
-<b></b>
-<b></b>
-<b></b>
-<b></b>
-<b></b>
-<b></b>
-<b></b>
-<b></b>
-<b></b>
-
-1. ***BROWSER***
+1. ***BROWSER*** - Netcraft
    - [netcraft.com](http://www.netcraft.com)
 
-2. ***BROWSER***
+2. ***BROWSER*** - dnsdumpster
    - [dnsdumpster.com](https://dnsdumpster.com)
 
-   **Information to Gather:**
+   **Information to Gather from 1 & 2:**
    - IP Address:
    - DNS Info:
    - Domain names:
@@ -75,7 +44,7 @@
    - Subdomains:
 
 3. ***TERMINAL***
-   **Find web application firewall:**
+   **Find web application firewall with wafw00f:**
    - Using `wafw00f`:
      ```
      wafw00f hackersploit.com
@@ -99,7 +68,7 @@
      ```
 
 5. ***TERMINAL***
-   **Find emails:**
+   **Find emails with theHarvester:**
    - Using `theHarvester`:
      ```
      theHarvester -d hackersploit.org -b google,linkedin
@@ -107,8 +76,7 @@
 
 6. ***BROWSER***
    - [haveibeenpwned.com](https://haveibeenpwned.com)
-   **Information to Gather:**
-   - Find leaked passwords
+   - Find leaked passwords for the email addresses
 
 
 
