@@ -35,6 +35,7 @@
 <b>[dnsdumpster.com](dnsdumpster.com)</b>
 
 <b>3. TERMINAL</b>
+
 <b>Use wafw00f to find web application firewall</b>
 <b>`wafw00f` zonetransfer.me</b>
 <b></b>
