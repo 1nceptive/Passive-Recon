@@ -26,22 +26,21 @@
 
 <h2>Cheatsheet Walkthrough</h2>
 
-<b>1. BROWSER</b>
+<b>1. [netcraft.com](netcraft.com) - BROWSER</b>
 
-<b>[netcraft.com](netcraft.com)</b>
+<b>2. [dnsdumpster.com](dnsdumpster.com) - BROWSER</b>
 
-<b>2. BROWSER</b>
-
-<b>[dnsdumpster.com](dnsdumpster.com)</b>
-
-<b>3. TERMINAL</b>
+<b>3. wafw00f - TERMINAL</b>
 
 <b>***Use wafw00f to find web application firewall***</b>
 
 <b>`wafw00f` zonetransfer.me</b>
-<b></b>
-<b></b>
-<b></b>
+
+<b>4. Sublist3r - TERMINAL</b>
+
+<b>***Find Subdomains of domain with sublist3r***</b>
+
+<b>`subblist3r -d` zonetransfer.me</b>
 <b></b>
 <b></b>
 <b></b>
