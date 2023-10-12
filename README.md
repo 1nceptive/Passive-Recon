@@ -10,6 +10,23 @@
 - <b>Identify Subdomains</b>
   
 
+1. ***BROWSER***
+   [netcraft.com](http://www.netcraft.com)
+
+2. ***BROWSER***
+   [dnsdumpster.com](https://dnsdumpster.com)
+
+   IP Address:
+   DNS Info:
+   Domain names:
+   Domain ownership:
+   Email addresses:
+   Social media:
+   Web technologies:
+   Subdomains:
+
+3. ***TERMINAL***
+   Find web application firewall using `wafw00f`:
 
 
 <h2>Websites & Tools used</h2>
