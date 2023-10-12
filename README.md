@@ -58,6 +58,57 @@
 <b></b>
 <b></b>
 
+1. ***BROWSER***
+   - [netcraft.com](http://www.netcraft.com)
+
+2. ***BROWSER***
+   - [dnsdumpster.com](https://dnsdumpster.com)
+
+   **Information to Gather:**
+   - IP Address:
+   - DNS Info:
+   - Domain names:
+   - Domain ownership:
+   - Email addresses:
+   - Social media:
+   - Web technologies:
+   - Subdomains:
+
+3. ***TERMINAL***
+   **Find web application firewall:**
+   - Using `wafw00f`:
+     ```
+     wafw00f hackersploit.com
+     ```
+   - Show all possible WAFs:
+     ```
+     wafw00f hackersploit.com -a
+     ```
+   - If WAF is detected but not identified, then perform a port scan on the IP address of the webserver.
+   - WAF:
+
+4. ***TERMINAL***
+   **Find Subdomains of domain with sublist3r:**
+   - Using `sublist3r`:
+     ```
+     sublist3r -d hackersploit.com
+     ```
+   - Use specific engines (e.g., Yahoo, Google):
+     ```
+     sublister -d hackersploit.com -e yahoo,google
+     ```
+
+5. ***TERMINAL***
+   **Find emails:**
+   - Using `theHarvester`:
+     ```
+     theHarvester -d hackersploit.org -b google,linkedin
+     ```
+
+6. ***BROWSER***
+   - [haveibeenpwned.com](https://haveibeenpwned.com)
+   **Information to Gather:**
+   - Find leaked passwords
 
 
 
