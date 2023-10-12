@@ -27,8 +27,10 @@
 <h2>Cheatsheet Walkthrough</h2>
 
 <b>1. [netcraft.com](netcraft.com) - BROWSER</b>
+- <b>Shows alot of information</b>
 
 <b>2. [dnsdumpster.com](dnsdumpster.com) - BROWSER</b>
+- <b>Shows alot of information</b>
 
 <b>3. wafw00f - TERMINAL</b>
 
