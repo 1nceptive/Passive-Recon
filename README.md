@@ -7,11 +7,11 @@
 <h2>Key Outcomes Required</h2>
 
 ```
-Identify IP addresses & DNS information</b>
-Identify domain names and domain ownership information</b>
-Identify email addresses and social media presence links</b>
-Identify web technologies being used on the site</b>
-Identify Subdomains</b>
+Identify IP addresses & DNS information
+Identify domain names and domain ownership information
+Identify email addresses and social media presence links
+Identify web technologies being used on the site
+Identify Subdomains
 ```
 
 <h2>Websites & Tools used</h2>
