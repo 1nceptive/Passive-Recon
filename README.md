@@ -53,7 +53,7 @@ Identify Subdomains
      ```
      wafw00f hackersploit.com
      ```
-   - Show all possible WAFs:
+   - Show all possible Web Application Firewalls:
      ```
      wafw00f hackersploit.com -a
      ```
