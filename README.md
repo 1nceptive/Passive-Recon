@@ -1,5 +1,8 @@
 <h1>Passive Reconnisance</h1>
 
+<h2>Objective</h2>
+
+<b> During this passive reconnaissance phase of the penetration testing process, our main goal is to quietly observe the target and find possible areas for future attacks. It's crucial to spot common vulnerabilities, as all the gathered info will be vital for later stages of the penetration test. The ultimate objective is to quietly observe the target, making sure we go unnoticed, and make a detailed list of useful info from tools and websites we use in this reconnaissance phase. This list will be a core part of our comprehensive penetration test in later stages</b>
 
 <h2>Key Outcomes Required</h2>
 
