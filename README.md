@@ -6,12 +6,13 @@
 
 <h2>Key Outcomes Required</h2>
 
-- <b>Identify IP addresses & DNS information</b>
-- <b>Identify domain names and domain ownership information</b>
-- <b>Identify email addresses and social media presence links</b>
-- <b>Identify web technologies being used on the site</b>
-- <b>Identify Subdomains</b>
-  
+```
+Identify IP addresses & DNS information</b>
+Identify domain names and domain ownership information</b>
+Identify email addresses and social media presence links</b>
+Identify web technologies being used on the site</b>
+Identify Subdomains</b>
+```
 
 <h2>Websites & Tools used</h2>
 <b>Mentioned in Order</b>
